@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"CTRL1,GND1,IN1,J2,J4,J5,J6,J7,J8","9","Screw_Terminal_01x02","","","","motorcycle_accessory_distribution:PHOENIX_1868076",""
+"D1","1","1N4007","","","","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88503/1n4001.pdf"
+"F1","1","Littelfuse_178.6165","","","","motorcycle_accessory_distribution:Fuseholder_Littelfuse_178.6165","${KIPRJMOD}/datasheets/fuse_datasheet.pdf"
+"J1","1","DZ85AB-5-PCB","","","","motorcycle_accessory_distribution:DZ85AB-5-PCB","${KIPRJMOD}/datasheets/DZ85AB-5-PCB_Durakool.pdf"

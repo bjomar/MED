@@ -1,0 +1,7 @@
+*.3mf
+*.FC*
+*.stl
+fab/
+*.zip
+.history/
+*.step
